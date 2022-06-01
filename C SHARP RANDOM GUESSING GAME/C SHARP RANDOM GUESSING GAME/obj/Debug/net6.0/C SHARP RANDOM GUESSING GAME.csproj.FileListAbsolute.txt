@@ -1,0 +1,15 @@
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\bin\Debug\net6.0\C SHARP RANDOM GUESSING GAME.exe
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\bin\Debug\net6.0\C SHARP RANDOM GUESSING GAME.deps.json
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\bin\Debug\net6.0\C SHARP RANDOM GUESSING GAME.runtimeconfig.json
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\bin\Debug\net6.0\C SHARP RANDOM GUESSING GAME.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\bin\Debug\net6.0\ref\C SHARP RANDOM GUESSING GAME.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\bin\Debug\net6.0\C SHARP RANDOM GUESSING GAME.pdb
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.csproj.AssemblyReference.cache
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.AssemblyInfoInputs.cache
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.AssemblyInfo.cs
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.csproj.CoreCompileInputs.cache
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\ref\C SHARP RANDOM GUESSING GAME.dll
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.pdb
+C:\Users\d.zahiroddini\source\repos\C SHARP RANDOM GUESSING GAME\C SHARP RANDOM GUESSING GAME\obj\Debug\net6.0\C SHARP RANDOM GUESSING GAME.genruntimeconfig.cache
